@@ -1,0 +1,42 @@
+#lft{
+    background-color: #303C6C;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.lb{
+    background-color: #B4DFE5;
+    padding: 20px;
+    margin: 20px;
+}
+
+#rgt{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #F4976C;
+
+}
+
+.rb{
+    background-color: #FBE8A6;
+    padding: 20px;
+    margin: 5px;
+}
+
+#rd{
+    background-color: #B4DFE5;
+    padding: 100px;
+}
+
+.bla{
+    color: black;
+}
+
+.lb{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
